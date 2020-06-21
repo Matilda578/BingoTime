@@ -1,0 +1,13 @@
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\obj\Debug\netcoreapp3.1\ahrg.csprojAssemblyReference.cache
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\obj\Debug\netcoreapp3.1\ahrg.csproj.CoreCompileInputs.cache
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\obj\Debug\netcoreapp3.1\ahrg.AssemblyInfoInputs.cache
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\obj\Debug\netcoreapp3.1\ahrg.AssemblyInfo.cs
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\bin\Debug\netcoreapp3.1\ahrg.exe
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\bin\Debug\netcoreapp3.1\ahrg.deps.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\bin\Debug\netcoreapp3.1\ahrg.runtimeconfig.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\bin\Debug\netcoreapp3.1\ahrg.runtimeconfig.dev.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\bin\Debug\netcoreapp3.1\ahrg.dll
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\bin\Debug\netcoreapp3.1\ahrg.pdb
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\obj\Debug\netcoreapp3.1\ahrg.dll
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\obj\Debug\netcoreapp3.1\ahrg.pdb
+C:\Users\tilly\Documents\Swinburne\Anhs class\ahrg\obj\Debug\netcoreapp3.1\ahrg.genruntimeconfig.cache
